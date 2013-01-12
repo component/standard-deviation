@@ -1,0 +1,15 @@
+{
+  "name": "standard-deviation",
+  "repo": "component/standard-deviation",
+  "description": "Array standard deviation utility",
+  "version": "1.0.0",
+  "keywords": ["array", "utility", "stats", "statistics"],
+  "dependencies": {
+    "component/variance": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
